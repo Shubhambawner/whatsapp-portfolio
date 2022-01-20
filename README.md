@@ -1,3 +1,8 @@
+# important note:
+the node modules need to be installed
+we need to install additional css node dependency, runn this command:
+npm i -D --save-exact mini-css-extract-plugin@2.4.5
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
